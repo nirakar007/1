@@ -1,2 +1,2 @@
-a = input("wwhat iz yoru name?\n")
-print("your name is not "+a)  
+a = input("What iz yoru name?\n")
+print("Your name is not "+a)  
