@@ -1,0 +1,16 @@
+terminal codes for git:(on each projects/assignments)
+
+1. git status (to check if there are any changes to the file)
+2. git add .  (to add files to the server)
+3. git commit -m(message) "any sensible message"
+
+
+git remote add origin (repository ko url) -one time 
+=====>
+git push origin master(to send to the server)
+
+
+
+
+to check if there is server or not:
+git remote -v
